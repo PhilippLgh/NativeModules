@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PhilippLgh/NativeModules.git"
@@ -16,6 +15,7 @@
   },
   "homepage": "https://github.com/PhilippLgh/NativeModules#readme",
   "dependencies": {
-    "keccak": "^2.0.0"
+    "keccak": "^2.0.0",
+    "scrypt": "^6.0.3"
   }
 }
